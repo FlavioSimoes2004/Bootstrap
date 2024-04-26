@@ -1,0 +1,16 @@
+header h1{
+    text-align: center;
+}
+
+body .container{
+    /*border: 1px solid black;*/
+}
+
+body .container .row{
+    /*border: 1px solid black;*/
+}
+
+body .container .row .col-md-8, body .container .row .col-sm-12{
+    text-align: center;
+    /*border: 1px solid black;*/
+}
